@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Guilherme!
 
  - :blue_book: Computer Science student at UFPI (Universidade Federal do Piauí)
- - :computer: Currently learning about front-end development
+ - :computer: Currently learning about web development
 
 > 1% better every day
 
