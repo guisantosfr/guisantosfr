@@ -9,8 +9,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=3178c6)
+
 ![React](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react&logoColor=61dafb)
 ![Vue](https://img.shields.io/badge/-Vue.js-1a1a1a?style=flat-square&logo=vuedotjs&logoColor=42b883)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=43853d)
+
 ![Tailwind](https://img.shields.io/badge/-Tailwind-ebebeb?style=flat-square&logo=tailwindcss&logoColor=0EA5E9)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-bf4080?style=flat-square&logo=sass&logoColor=white)
