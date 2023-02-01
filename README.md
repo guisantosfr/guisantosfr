@@ -2,7 +2,7 @@
 
  - :blue_book: Computer Science student at UFPI (Universidade Federal do Piauí)
  - :computer: Currently learning about web development
- - :man_technologist: Looking for internship
+ - :man_technologist: Looking for **internship**
 
 > 1% better every day
 
