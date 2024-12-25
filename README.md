@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Guilherme!
 
  - :blue_book: Computer Science student at UFPI (Universidade Federal do Piauí)
- - :computer: Currently learning about web development
- - :man_technologist: Open to work
+ - :computer: Front-end developer
 
 > 1% better every day
 
